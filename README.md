@@ -41,17 +41,6 @@ Features
 
 ### Run in your local
 
-- ```git clone https://github.com/sadanandpai/sorting-visualizer.git```
+- ```git clone https://github.com/Naveen-7000/SortViz```
 - ```npm install``` (after navigating inside the directory)
 - ```npm run dev```
-
----
-
-### Contributing Guide
-
-If you want to contribute, improve or fix bugs in this repo, then check out the [Contributing Guide](./CONTRIBUTING.md)
-<br/>
-
-### License
-
-This repository is MIT licensed. [Read more](./LICENSE)
