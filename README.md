@@ -4,7 +4,7 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
+<a href="https://gregarious-nasturtium-f88c37.netlify.app/"><img src="cover.png" alt="cover" /></a>
 [See it in action](https://gregarious-nasturtium-f88c37.netlify.app/)
 
 ---
